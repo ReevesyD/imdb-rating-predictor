@@ -7,7 +7,7 @@ The predictions were used as part of an in-class kaggle competition where our ra
 Python, Numpy, Pandas, Seaborn, Matplotlib
 
 ## How To Run:
-Ensure that the test and train dataset are stored within a sub-directory named project_data. The notebook will not run otherwise.
+Ensure that the test and train datasets are stored within a sub-directory named project_data. The notebook will not run otherwise.
 
  ## Lessons Learned:
 I learned how to preprocess data, perform feature analysis and engineering, visualise data trends and patterns, select and train models, hypertune parameters and evaluate models.
