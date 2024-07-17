@@ -3,7 +3,7 @@
 
 The predictions were used as part of an in-class kaggle competition where our ranking was determined by accuracy on a hidden test set. I came 18th out of 400+ entrants. 
 
-## Technology Used
+## Technology Used:
 Python, Numpy, Pandas, Seaborn, Matplotlib
 
 ## How To Run:
